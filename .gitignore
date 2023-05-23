@@ -1,0 +1,12 @@
+# dependencies
+/node_modules
+# production
+/build
+# env files
+.env
+.env.production
+.env.local
+.env.test
+# packge lock
+yarn.lock
+package-lock.json
